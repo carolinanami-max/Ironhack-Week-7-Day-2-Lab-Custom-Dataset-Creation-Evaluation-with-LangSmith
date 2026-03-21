@@ -1,7 +1,7 @@
 # AI Consulting Q&A — Custom Dataset Evaluation with LangSmith
 
-**Ironhack AI Consulting & Integration Bootcamp — Week 7 Lab**  
-**Student:** Carolina | **Date:** March 17, 2026
+
+** Author: Carolina Nami | **Date:** March 17, 2026
 
 A custom LLM evaluation project that creates a domain-specific dataset of realistic AI consulting questions, runs evaluation experiments across two models using LangSmith, and produces a comparative analysis report.
 
